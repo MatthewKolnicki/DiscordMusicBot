@@ -1,0 +1,8 @@
+venv/
+src/config.py
+# You might also want to add these for extra security:
+**/config.py
+*.env
+.env
+__pycache__/
+*.pyc
